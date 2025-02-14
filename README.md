@@ -1,4 +1,4 @@
-# MQL5 Socket Client - Python Server Example
+# MQL5 Socket Client - Python Server
 
 This repository demonstrates TCP socket communication between an MQL5 Expert Advisor (EA) and a Python server, enabling data exchange between MetaTrader 5 and external applications. The MQL5 EA sends closing price data to a Python server, which responds with a confirmation.
 
